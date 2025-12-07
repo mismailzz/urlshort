@@ -1,0 +1,6 @@
+- path: /gh
+  url: https://github.com
+
+- path: /so
+  url: https://stackoverflow.com
+
